@@ -1,0 +1,10 @@
+{
+  "name": "Attentive.io",
+  "start_url": "localhost:5000",
+  "description": "AI Enhanced CryptoArb",
+  "icons": [{
+    "src": "https://helloblockstack.com/icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}
